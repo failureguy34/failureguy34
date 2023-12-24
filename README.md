@@ -9,7 +9,7 @@ Además de ser un entusiasta del código, estoy construyendo **DreamPulse Studio
 ## 💻 Habilidades Técnicas
 
 - JavaScript
-- ReactJSX
+- ReactJS
 - HTML/CSS
 - Node.js
 - MongoDB
