@@ -33,7 +33,7 @@ Estoy emocionado por lo que vendrá en el futuro. ¡Mantente atento a nuevas cre
 
 ## 🌐 Redes Sociales:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/mrmarionette])(https://www.instagram.com/mrmarionette)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mrmarionette)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ThegodfireO)
 
 ## 💰 Puedes apoyarme donándome
