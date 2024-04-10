@@ -1,6 +1,6 @@
 # ¡Hola, soy MrMarionette! 👋
 
-Soy un apasionado desarrollador colombiano siempre explorando nuevas tecnologías y listo para enfrentar desafíos emocionantes. 👨‍💻 Además de ser un entusiasta del código, estoy construyendo **DreamPulse Studios**, mi propio equipo de desarrollo, donde la creatividad y la innovación son nuestra brújula.
+Soy un apasionado desarrollador colombiano siempre explorando nuevas tecnologías y listo para enfrentar desafíos emocionantes. 👨‍💻 Además de ser un entusiasta de la programación, estoy construyendo **DreamPulse Studios**, mi propio equipo de desarrollo, donde la creatividad y la innovación son nuestra brújula.
 
 ## 🚀 Sobre Mí
 
@@ -15,8 +15,6 @@ Soy un apasionado desarrollador colombiano siempre explorando nuevas tecnología
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🎮 Juegos Favoritos
-
-Cuando no estoy codificando, me sumerjo en mundos virtuales. Mis juegos favoritos incluyen:
 - Geometry Dash
 - Terraria
 - Minecraft
